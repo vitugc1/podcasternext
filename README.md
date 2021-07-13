@@ -17,4 +17,4 @@ com esse fui apara o proximo nivel.
 ###REACT
 
 # IMAGEM DO PROJETO
-<img width="1000px" src="banner.png" alt=""/>
+<img src="banner.png" alt=""/>
